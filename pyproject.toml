@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dioptra-iris-client"
+name = "dioptra-iris-client-elena"
 version = "0.5.0"
 description = "Python client for the Iris API."
 authors = ["Maxime Mouchet <maxime.mouchet@lip6.fr>"]
